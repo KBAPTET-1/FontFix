@@ -1,0 +1,8 @@
+name: FontFix
+version: Mercury-v.1
+main: Font\Fix\FontFixMain
+api:
+  - 5.0.0
+description: Фикс бага со шрифтом
+author: KBAPTETu
+website: https://vk.com/k8artet
